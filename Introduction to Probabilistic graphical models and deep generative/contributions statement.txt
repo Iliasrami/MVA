@@ -1,0 +1,5 @@
+SAROUI Rachida: implemented and compared annealed Langevin dynamics and Langevin dynamics on a GMM. She created Empirical Cumulative Distribution Functions (ECDFs) for multiple noise scores and wrote the section on score-based modeling in the report and poster.  
+
+RAMI Ilias: I wrote the first part of the article, covering the introduction to denoising score matching. Additionally, I conducted the image generation task expirement  and performed hyperparameter tuning for the generation process.
+
+RABEH Samar:I authored the section about the link between diffusion models and score matching, and I adapted the Langevin method for the inpainting task on CIFAR and MNIST.
